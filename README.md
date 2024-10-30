@@ -37,6 +37,9 @@ Authors: Antonio M. Rinaldi, Cristiano Russo, Cristian Tommasino
 - 4. Title of the paper: A Comprehensive Survey of Deep Learning for Image Captioning
 Year: 2019
 Authors: MD. Zakir Hossain, Ferdous Sohel, Mohd Fairuz Shiratuddin, and Hamid Laga
+# Video Reference 
+https://drive.google.com/file/d/1ArjcjurFy5zin3JUgu4Pp7oyJLZp1fnJ/view?usp=sharing
+
 
 
 
